@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"snake_moving_game","l":"Home"},{"p":"snake_moving_game","l":"Snake_Moving_Game"}];updateSearchResults();
